@@ -1,0 +1,15 @@
+[submodule "config"]
+	path = config
+	url = https://github.com/Sinaniya/config-cloud.git
+[submodule "discovery"]
+	path = discovery
+	url = https://github.com/Sinaniya/discovery-cloud.git
+[submodule "role"]
+	path = role
+	url = https://github.com/Sinaniya/role-cloud.git
+[submodule "token"]
+	path = token
+	url = https://github.com/Sinaniya/token-cloud.git
+[submodule "user"]
+	path = user
+	url = https://github.com/Sinaniya/user-cloud.git
