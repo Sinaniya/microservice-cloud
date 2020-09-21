@@ -13,3 +13,6 @@
 [submodule "user"]
 	path = user
 	url = https://github.com/Sinaniya/user-cloud.git
+[submodule "edge"]
+	path = edge
+	url = https://github.com/Sinaniya/edge-cloud.git./edge
