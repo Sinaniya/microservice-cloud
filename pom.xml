@@ -21,6 +21,7 @@
         <module>role</module>
         <module>token</module>
         <module>discovery</module>
+        <module>edge</module>
     </modules>
 
     <properties>
